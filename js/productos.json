@@ -1,0 +1,421 @@
+[
+    {
+        "id": "MOMO AL VAPOR",
+        "titulo": "MOMO AL VAPOR",
+        "imagen": "./img/momo al vapor.png",
+        "categoria": {
+            "nombre": "MOMO AL VAPOR",
+            "id": "MOMOS"
+        },
+        "precio": 7.95
+    }, {
+        "id": "CHILLI MOMO",
+        "titulo": "CHILLI MOMO",
+        "imagen": "./img/chilli momo.png",
+        "categoria": {
+            "nombre": "CHILLI MOMO",
+            "id": "MOMOS"
+        },
+        "precio": 9.35
+    },{
+        "id": "SADHEKO MOMO (CRISPY)",
+        "titulo": "SADHEKO MOMO (CRISPY)",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "SADHEKO MOMO (CRISPY)",
+            "id": "MOMOS"
+        },
+        "precio": 9.35
+    },{
+        "id": "TATO JHOL MOMO",
+        "titulo": "TATO JHOL MOMO",
+        "imagen": "./img/tato jhol momo.png",
+        "categoria": {
+            "nombre": "TATO JHOL MOMO",
+            "id": "MOMOS"
+        },
+        "precio": 8.65
+    },{
+        "id": "KATHMANDU JHOL MOMO (COLD)",
+        "titulo": "KATHMANDU JHOL MOMO (COLD)",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "KATHMANDU JHOL MOMO (COLD)",
+            "id": "MOMOS"
+        },
+        "precio": 8.65
+    },{
+        "id": "TEMPTING ACHARI",
+        "titulo": "TEMPTING ACHARI",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "TEMPTING ACHARI",
+            "id": "MOMOS"
+        },
+        "precio": 9.95
+    },{
+        "id": "SEXY SCHEZWAN (Too hot to handle)",
+        "titulo": "SEXY SCHEZWAN (Too hot to handle)",
+        "imagen": "./img/WhatsApp Image 2024-06-09 at 22.23.57.png",
+        "categoria": {
+            "nombre": "SEXY SCHEZWAN (Too hot to handle)",
+            "id": "MOMOS"
+        },
+        "precio": 9.95
+    },{
+        "id": "ALOO BODI TAAMA",
+        "titulo": "ALOO BODI TAAMA",
+        "imagen": "./img/WhatsApp Image 2024-06-09 at 00.38.03.png",
+        "categoria": {
+            "nombre": "ALOO BODI TAAMA",
+            "id": "CHEF'S SPECIAL"
+        },
+        "precio": 6.95
+    },{
+        "id": "CHATPATE",
+        "titulo": "CHATPATE",
+        "imagen": "./img/chatpat.png",
+        "categoria": {
+            "nombre": "CHATPATE",
+            "id": "AMILO PIRO"
+        },
+        "precio": 4.95
+    },{
+        "id": "PANI PURI",
+        "titulo": "PANI PURI",
+        "imagen": "./img/pani puri.png",
+        "categoria": {
+            "nombre": "PANI PURI",
+            "id": "AMILO PIRO"
+        },
+        "precio": 4.95
+    },{
+        "id": "BHATMAS SADEKO",
+        "titulo": "BHATMAS SADEKO",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "BHATMAS SADEKO",
+            "id": "AMILO PIRO"
+        },
+        "precio": 4.95
+    },{
+        "id": "SAMOSA CHAAT",
+        "titulo": "SAMOSA CHAAT",
+        "imagen": "./img/WhatsApp Image 2024-06-08 at 23.40.36.png",
+        "categoria": {
+            "nombre": "SAMOSA CHAAT",
+            "id": "AMILO PIRO"
+        },
+        "precio": 5.95
+    },{
+        "id": "PAKORA VEGETAL",
+        "titulo": "PAKORA VEGETAL",
+        "imagen": "./img/WhatsApp Image 2024-06-08 at 23.23.28.png",
+        "categoria": {
+            "nombre": "PAKORA VEGETAL",
+            "id": "AMILO PIRO"
+        },
+        "precio": 4.95
+    },{
+        "id": "AALU TIMURI",
+        "titulo": "AALU TIMURI",
+        "imagen": "./img/aaloo timmuri.png",
+        "categoria": {
+            "nombre": "AALU TIMURI",
+            "id": "AMILO PIRO"
+        },
+        "precio": 4.95
+    },{
+        "id": "PORK CHOILA",
+        "titulo": "PORK CHOILA",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "PORK CHOILA",
+            "id": "SITTAN"
+        },
+        "precio": 9.95
+    },{
+        "id": "CHICKEN CHOILA",
+        "titulo": "CHICKEN CHOILA",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "CHICKEN CHOILA",
+            "id": "SITTAN"
+        },
+        "precio": 9.95
+    },{
+        "id": "PORK SEKUWA",
+        "titulo": "PORK SEKUWA",
+        "imagen": "./img/WhatsApp Image 2024-06-08 at 23.23.28 (1).png",
+        "categoria": {
+            "nombre": "PORK SEKUWA",
+            "id": "SITTAN"
+        },
+        "precio": 9.95
+    },{
+        "id": "CHICKEN SEKUWA",
+        "titulo": "CHICKEN SEKUWA",
+        "imagen": "./img/CHIK CHOILA.png",
+        "categoria": {
+            "nombre": "CHICKEN SEKUWA",
+            "id": "SITTAN"
+        },
+        "precio": 9.95
+    },{
+        "id": "BUFALO WINGS",
+        "titulo": "BUFALO WINGS",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "BUFALO WINGS",
+            "id": "SITTAN"
+        },
+        "precio": 7.95
+    },{
+        "id": "SUKUTI",
+        "titulo": "SUKUTI",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "SUKUTI",
+            "id": "SITTAN"
+        },
+        "precio": 13.50
+    },{
+        "id": "PANGRA FRY",
+        "titulo": "PANGRA FRY",
+        "imagen": "./img/PANGRA FRY.png",
+        "categoria": {
+            "nombre": "PANGRA FRY",
+            "id": "SITTAN"
+        },
+        "precio": 8.95
+    },{
+        "id": "KHASI KO BHUTAN",
+        "titulo": "KHASI KO BHUTAN",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "KHASI KO BHUTAN",
+            "id": "SITTAN"
+        },
+        "precio": 8.95
+    },{
+        "id": "POLLO/CHICKEN",
+        "titulo": "POLLO/CHICKEN",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "POLLO/CHICKEN",
+            "id": "CHILLY SPECIAL"
+        },
+        "precio": 9.65
+    },{
+        "id": "CERDO/PORK",
+        "titulo": "CERDO/PORK",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "CERDO/PORK",
+            "id": "CHILLY SPECIAL"
+        },
+        "precio": 9.65
+    },{
+        "id": "VERDURAS/VEG",
+        "titulo": "VERDURAS/VEG",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "VERDURAS/VEG",
+            "id": "CHILLY SPECIAL"
+        },
+        "precio": 9.65
+    },{
+        "id": "THAKALI VEG",
+        "titulo": "THAKALI VEG",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "THAKALI VEG",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 12.65
+    },{
+        "id": "THAKALI NON-VEG",
+        "titulo": "THAKALI NON-VEG",
+        "imagen": "./img/NON VEG.png",
+        "categoria": {
+            "nombre": "THAKALI NON-VEG",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 14.65
+    },{
+        "id": "CHOWMEIN CHICKEN",
+        "titulo": "CHOWMEIN CHICKEN",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "CHOWMEIN CHICKEN",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 8.50
+    },{
+        "id": "CHOWMEIN PORK",
+        "titulo": "CHOWMEIN PORK",
+        "imagen": "./img/WhatsApp Image 2024-06-08 at 23.23.28 (2).png",
+        "categoria": {
+            "nombre": "CHOWMEIN PORK",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 8.50
+    },{
+        "id": "CHOWMEIN VEG",
+        "titulo": "CHOWMEIN VEG",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "CHOWMEIN VEG",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 7.50
+    },{
+        "id": "FRY RICE CHICKEN",
+        "titulo": "FRY RICE CHICKEN",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "FRY RICE CHICKEN",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 8.50
+    },{
+        "id": "FRY RICE PORK",
+        "titulo": "FRY RICE PORK",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "FRY RICE PORK",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 8.50
+    },{
+        "id": "FRY RICE VEG",
+        "titulo": "FRY RICE VEG",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "FRY RICE VEG",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 7.50
+    },{
+        "id": "THUKPA CHICKEN",
+        "titulo": "THUKPA CHICKEN",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "THUKPA CHICKEN",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 9.95
+    },{
+        "id": "THUKPA PORK",
+        "titulo": "THUKPA PORK",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "THUKPA PORK",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 9.95
+    },{
+        "id": "THUKPA VEG",
+        "titulo": "THUKPA VEG",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "THUKPA VEG",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 8.50
+    },{
+        "id": "MIX THUKPA",
+        "titulo": "MIX THUKPA",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "MIX THUKPA",
+            "id": "HOUSE SPECIAL"
+        },
+        "precio": 12.65
+    },{
+        "id": "KHEER",
+        "titulo": "KHEER",
+        "imagen": "./img/KHEER.png",
+        "categoria": {
+            "nombre": "KHEER",
+            "id": "POSTRES"
+        },
+        "precio": 5.95
+    },{
+        "id": "GULAB JAMUN",
+        "titulo": "GULAB JAMUN",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "GULAB JAMUN",
+            "id": "POSTRES"
+        },
+        "precio": 5.50
+    },{
+        "id": "HELADO KULFI",
+        "titulo": "HELADO KULFI",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "HELADO KULFI",
+            "id": "POSTRES"
+        },
+        "precio": 5.50
+    },{
+        "id": "HELADOS (Ice cream)",
+        "titulo": "HELADOS (Ice cream)",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "HELADOS (Ice cream)",
+            "id": "POSTRES"
+        },
+        "precio": 3.95
+    },{
+        "id": "MANGO LASSI",
+        "titulo": "MANGO LASSI",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "MANGO LASSI",
+            "id": "SMOOTHIES"
+        },
+        "precio": 4.50
+    },{
+        "id": "SWEET/SALT LASS",
+        "titulo": "SWEET/SALT LASS",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "SWEET/SALT LASS",
+            "id": "SMOOTHIES"
+        },
+        "precio": 3.90
+    },{
+        "id": "YUMMY STRAWBERRRY",
+        "titulo": "YUMMY STRAWBERRRY",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "YUMMY STRAWBERRRY",
+            "id": "SMOOTHIES"
+        },
+        "precio": 3.90
+    },{
+        "id": "MILKY VAINILLA",
+        "titulo": "MILKY VAINILLA",
+        "imagen": "./img/WhatsApp Image 2024-06-08 at 16.07.49.png",
+        "categoria": {
+            "nombre": "MILKY VAINILLA",
+            "id": "SMOOTHIES"
+        },
+        "precio": 3.90
+    },{
+        "id": "SOO.. CHOCOLATEY",
+        "titulo": "SOO.. CHOCOLATEY",
+        "imagen": "./img/",
+        "categoria": {
+            "nombre": "SOO.. CHOCOLATEY",
+            "id": "SMOOTHIES"
+        },
+        "precio": 3.90
+    }
+
+    
+]
+    
+
